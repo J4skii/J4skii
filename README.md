@@ -51,12 +51,12 @@ Here are a few projects from my repository that best showcase my skills (Link th
 
 ### 📫 Let's Connect!
 
-* **LinkedIn:** [Your LinkedIn Profile Link] (Crucial for professional visibility!)
-* **Email:** [Your Professional Email Address]
-* **Company:** Currently solving problems at Praeto Insurance Company.
+* **LinkedIn:** [[Your LinkedIn Profile Link](https://www.linkedin.com/in/jaden-roskruge01/)] 
+* **Email:** [jadenroskruge2@gmail.com]
+* **Company:** Currently solving problems at Praeto Group / Tiespro.
 
 <p align="center">
-    <a href="[Your LinkedIn Link]">
+    <a href="[https://www.linkedin.com/in/jaden-roskruge01/]">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
 </p>
