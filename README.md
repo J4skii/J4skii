@@ -1,4 +1,4 @@
-# 👋 Hello! I'm J4skii (Jaden)
+# 👋 Hello! I'm Jaden
 
  💼 Business Analyst | IT Professional | DUT Alumnus
 ---
