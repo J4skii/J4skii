@@ -3,7 +3,7 @@
  💼 Business Analyst | IT Professional | DUT Alumnus
 ---
 
-I am a results-driven young professional currently leveraging technology as a **Business Analyst at Praeto Insurance** in Musgrave. My foundation combines deep technical knowledge from the **Advanced Diploma in IT** with strategic business acumen from the **Diploma in ICT: Business Analysis** (both DUT).
+A results-driven young almost professional currently leveraging technology as a **Business Analyst ** . My foundation combines deep technical knowledge from the **Advanced Diploma in IT** with strategic business acumen from the **Diploma in ICT: Business Analysis** (both DUT).
 
 I specialize in bridging the gap between business needs and technical solutions, focusing on requirements elicitation, process optimization, and delivering impactful software projects.
 
